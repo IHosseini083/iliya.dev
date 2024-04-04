@@ -1,3 +1,3 @@
-# iliya.dev
+# imseyed.ir
 
-This is the source code for my personal website, [iliya.dev](https://iliya.dev).
+This is the source code for my personal website, [imseyed.ir](https://imseyed.ir).
